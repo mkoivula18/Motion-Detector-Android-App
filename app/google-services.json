@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219085924035",
+    "firebase_url": "https://movementdetector-ac83f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "movementdetector-ac83f",
+    "storage_bucket": "movementdetector-ac83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219085924035:android:91b5fb152b152cee4be476",
+        "android_client_info": {
+          "package_name": "com.example.motiondetectorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219085924035-iiprah2k9gkpuo3bnqklf106v45pp4ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZYaiyBDzAREsA0IWERLmY8b1e6QJKRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219085924035-iiprah2k9gkpuo3bnqklf106v45pp4ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
